@@ -17,8 +17,7 @@ This bot joins a voice channel and plays random audios on a loop. Users can cust
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/mukbang-audio-bot.git
-   cd mukbang-audio-bot
+   git clone https://github.com/Audio_bot/
 
 
 ## DONT FORGET TO GENERATE TOKEN TO BE ABLE TO RUN THE BOT
